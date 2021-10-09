@@ -1,0 +1,4 @@
+# Webscraping-Projects
+Examples of Webscraper scripts I've written for my clients
+This is a instragram bot.I created a class that inherited the selenium webdriver. I initialized and targted the html elements I found useful and threw some logic in
+there. I hope you enjoy !
